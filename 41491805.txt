@@ -1,0 +1,4 @@
+{
+    "YourOrgaWorkStatus":"1",
+    "YourOrgaWorkContent":"https://lty.sinokl.com"
+}
